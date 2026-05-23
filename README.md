@@ -1,3 +1,5 @@
 ## Kaizoku Ou ni, ore wa naru! 👨‍💻🏴‍☠️
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?henriquenunescode=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquenunescode&show_icons=true&theme=dracula)
+
+![GitHub streak](https://streak-stats.demolab.com?user=henriquenunescode&theme=dracula)

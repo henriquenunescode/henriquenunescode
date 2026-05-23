@@ -1,6 +1,6 @@
 # Henrique Nunes 👨‍💻
 
-<img src="https://streak-stats.demolab.com?user=henriquenunescode&theme=highcontrast&hide_border=false" alt="henriquenunescode's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=henriquenunescode&theme=dracula&hide_border=false" alt="henriquenunescode's GitHub Stats" />
 
 <br>
 

@@ -1,7 +1,5 @@
 ## Kaizoku Ou ni, ore wa naru! 👨‍💻🏴‍☠️
 
-# Henrique Nunes
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquenunescode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   

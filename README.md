@@ -1,8 +1,3 @@
 ## Kaizoku Ou ni, ore wa naru! 👨‍💻🏴‍☠️
 
-<div align="center">
-  <a href="https://github.com/henriquenunescode">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquenunescode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquenunescode&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+<img src="https://streak-stats.demolab.com?user=henriquenunescode&theme=highcontrast&hide_border=false" alt="henriquenunescode's GitHub Stats" />
